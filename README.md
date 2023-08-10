@@ -1,4 +1,4 @@
-# Beautiful Jekyll
+# Beautiful Jekyll Demo
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
